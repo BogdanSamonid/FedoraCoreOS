@@ -1,0 +1,15 @@
+{
+  "ignition": {
+    "version": "3.1.0"
+  },
+  "passwd": {
+    "users": [
+      {
+        "name": "core",
+        "sshAuthorizedKeys": [
+          "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQC8D11DGO+02AJq2oxd5MTX6ZzddnLCW+nM0v7K9VqiBbihhelvp/xGqKZkoN21xt1Ld/xsJ12GJqt3jOxVHNAZYNRY16zt6+RRXhrgzBxdMPdb+GGN27jluWmdk6c684PcGHWf9h+1grPEiCF8oI/KZ5xeg5g0v+Fr/3g82auCoTeWVRKKpo4UG5vch4NXNMlpmqGfIdg3bAxCCa2XcZv3XyQ7PLaHNixY00o3k5qeCSY28/GnKGKfMscs3S5wNAJxh4JYsy5rBpxbul2TXMhIO+v62aavT/EpDqiYXyBgjmCgACM2+22cwBfCEX4KIjsWB8MtLMIvB59FdOmrZOcxRdDGWLbbfhtBjSccKhdwdXdJHcp2lcMnq4acrZLvwljRoAGBPJfC7LwzDtbVTDeBN6/WAymfnMOoKbqZk918Mjnfq4sGfgL9wAlVwWU7Hp415tSxERcUKJeroDhmopMCoQWzs/q3jRrQP3VYGzCG+gyNbX1oDiwWrcC8MAnQAik= boogie@bossman"
+        ]
+      }
+    ]
+  }
+}
